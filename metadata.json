@@ -1,0 +1,6 @@
+{
+  "name": "Binomial Lab",
+  "description": "Interactive Binomial Distribution Experiment Simulator and Statistical Analysis Platform for Engineering and Mathematics Students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
